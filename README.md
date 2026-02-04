@@ -23,7 +23,7 @@ PowerShell and Evil-WinRM commands used are in the `/commands` folder.
 
 ## Report
 
-Final SOC report is available in `/report/SOC_Project_Report.pdf`.
+Final SOC report is available in `/report/README.md`.
 
 ---
 
